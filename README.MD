@@ -3,12 +3,12 @@
 A beautiful and interactive web application for discovering, searching, and exploring anime content built with Streamlit and powered by the Jikan API (unofficial MyAnimeList API).
 
 ## Features
-
+# Anime WebSite
 ### 🏠 Home Page
 - Browse trending and popular anime titles
 - View detailed information about each anime
 - Beautiful card-based layout with images
-
+ 
 ### 🔍 Search Functionality
 - Search for any anime by name
 - Real-time search results
